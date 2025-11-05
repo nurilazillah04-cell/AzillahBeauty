@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Kontak – Azillah Beauty</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <h1 class="brand">Azillah Beauty</h1>
+        <nav>
+          <a href="index.html">Home</a>
+          <a href="produk.html">Produk</a>
+          <a href="kontak.html">Kontak</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container">
+      <h2>Kontak Kami</h2>
+      <p>Formulir berikut bersifat demo — tidak mengirim data ke server.</p>
+
+      <form class="contact-form" onsubmit="alert('Form demo — tidak dikirim'); return false;">
+        <label>Nama
+          <input type="text" name="nama" required />
+        </label>
+
+        <label>Email
+          <input type="email" name="email" required />
+        </label>
+
+        <label>Pesan
+          <textarea name="pesan" rows="4" required></textarea>
+        </label>
+
+        <button class="btn" type="submit">Kirim</button>
+      </form>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>&copy; 2025 Nuril Azillah – Universitas Malikussaleh</p>
+      </div>
+    </footer>
+  </body>
+</html>
