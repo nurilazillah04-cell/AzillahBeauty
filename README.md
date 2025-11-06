@@ -117,7 +117,7 @@ Gunakan **Google Lighthouse (DevTools)** untuk mengukur:
 
 ### 🧭 Diagram Arsitektur Cloud
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nurilazillah04-cell/AzillahBeauty/refs/heads/main/Diagram%20AzillahBeauty%20Website.png" 
+  <img src="https://raw.githubusercontent.com/nurilazillah04-cell/AzillahBeauty/refs/heads/main/Diagram%20AzillahBeuty%20%20Website.png" 
        alt="Diagram Arsitektur Cloud Azillah Beauty" width="600">
 </p>
 
